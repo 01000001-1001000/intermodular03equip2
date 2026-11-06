@@ -5,6 +5,7 @@ intermodular</p>
 <h2>Miembros:</h2>
 <ul>
   <li>Al Hayy Castella</li>
+  <li>Hugo Signes</li>
   <li>Iván Gómez Navarro</li>
   <li>Héctor Piquer Belda</li>
   <li> Alex Baicu </li>
