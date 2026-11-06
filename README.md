@@ -5,7 +5,7 @@ intermodular</p>
 <h2>Miembros:</h2>
 <ul>
   <li>Al Hayy Castella</li>
-  <li>...</li>
+  <li>Hugo Signes</li>
 </ul>
 
 <h2>Enlaces a IMDb:</h2>
